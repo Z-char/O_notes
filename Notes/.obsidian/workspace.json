@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "1c11d3b3878d5675",
+    "type": "split",
+    "children": [
+      {
+        "id": "a89e41b24eca2689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9327f35b838f095c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian 重新入门笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1168c7e58f08d905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git 重新入门笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37a4fffde7bbceb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "90c015054d246bbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "862710f45676d0b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51cd9f1af940ef14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cdb5bac312ff26d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85cc9c69f114f03c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a066b5710127c88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77d158219702fa36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git 重新入门笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2898f08902f7d0e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git 重新入门笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d789480bfac4336",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e74e4693f80b565",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git 重新入门笔记.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1168c7e58f08d905",
+  "lastOpenFiles": [
+    "Obsidian 重新入门笔记.md",
+    "git 重新入门笔记.md",
+    "666.md",
+    "Welcome.md",
+    "liks.md",
+    "2024-03-23.md",
+    "Untitled.canvas"
+  ]
+}
