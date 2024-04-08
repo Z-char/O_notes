@@ -16,3 +16,4 @@ git init
 为了把信息同步到远程库，首先我们需要一个远程库，可以打开 GitHub 然后创建一个新的库，事实上 GitHub 就会提示你如何把两个库关联起来。
 `git remote add origin git@github.com:Z-char/O_notes.git` 用这个把远程库加入选择链接，`origin` 是这个远程库的名字你可以自选，后面是你建立的库的地址，我这个是 ssh，你也可以用 https 去加入。
 接下来你需要用 `git push -u origin master` 去把本地的 master 分支 push 到远端的 origin 库，需要注意的是，推送的话你需要有权限才能更改云端的内容，具体来说，你需要在 GitHub 里面先把你的 ssh 公钥传上去，这样 GitHub 就能识别你的电脑了，push 的时候就可以 push 上去，具体创建 ssh-key 可以看 [这里](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)。
+基础内容介绍完了，已经可以支持写内容和同步了，分支和标签有机会了再介绍吧。
