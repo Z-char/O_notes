@@ -27,3 +27,13 @@ $\sum |s| \le 1e6$.
 
 Solution:
 If $s$ is not palindrome, we're done. Consider we have a $s$ which is palindrome and contains at least two distinct characters. Let $t$ be the first position where $s_1 \not= s_t$, meaning $s_{1, t}$ is not a palindrome. If $s_{t + 1, n}$ is a palindrome, we would say $s$ has the form $AbAb\cdots AbA$ where $A$ consists of $t-1$ $\textsf{a}$ characters (given that $s$ and $s_{t+1, n}$ are palindromes). Then notice if $s$ is $AbA$ there is no solution. If $s$ is $ababababa$ there is no solution too. Otherwise for $AbAbAbA$ or something, $Aba$ and the remaining are both not palindrome. Therefore we find the solution. If we have a solution, there is always a solution such that at most 2 substrings work.
+
+### F
+Formal Problem:
+Given a permutation $p$ of size $n$, also a non-negative integer $k$. 你需要构造一个排列 $q$，满足 $\rm inv(\it q\rm) + \rm inv(\it qp\rm) = k$, 其中 $\rm inv$ 表示逆序对数，$qp$ 表示将 $p$ 看为置换后对 $q$ 操作的排列。
+
+Input Restriction:
+$\sum n \le 3e5, 0\le k \le n(n-1)$.
+
+Solution:
+If $p_i \lt p_j$, in $q$ that $q_{p_i}, q_{p_j}$ has the same "inverseness" with $qp_i, qp_j$. Otherwise they have the oppsite "inverseness". So that we shall know parity of the equation. 
