@@ -36,4 +36,4 @@ Input Restriction:
 $\sum n \le 3e5, 0\le k \le n(n-1)$.
 
 Solution:
-If $p_i \lt p_j$, in $q$ that $q_{p_i}, q_{p_j}$ has the same "inverseness" with $qp_i, qp_j$. Otherwise they have the oppsite "inverseness". So that we shall know parity of the equation. 咕咕了。
+If $p_i \lt p_j$, in $q$ that $q_{p_i}, q_{p_j}$ has the same "inverseness" with $qp_i, qp_j$. Otherwise they have the oppsite "inverseness". So that we shall know parity of the equation. 咕咕了。代码自查我提交记录。
