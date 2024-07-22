@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "109d1462ba8e7285",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a562a078dae33d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48eddf0e777241b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Math Learning/分析学/陈纪修课程笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4414c566fec6cea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Math Learning/分析学/数列极限相关练习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5453ab7ef344cb6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Math Learning/分析学/一点关于实数的讨论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff976ff5529a3c32",
+    "type": "split",
+    "children": [
+      {
+        "id": "fef40384c143e8fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "107bad9bc82c9d6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d92be2a366c7a2aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da1e3972cc9bd6d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f565db6e2e138b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "3861d5ab4f1164cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7296847c1109e14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Math Learning/分析学/陈纪修课程笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80814bf50e2153b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Math Learning/分析学/陈纪修课程笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fe3b551f9a96381",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ef20c100a2d1230",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Math Learning/分析学/陈纪修课程笔记.md"
+              }
+            }
+          },
+          {
+            "id": "899dd2117582eb32",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "4a18fe1ed876df76",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Notes/Math Learning/分析学/陈纪修课程笔记.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "48eddf0e777241b5",
+  "lastOpenFiles": [
+    "Notes/Math Learning/分析学/一点关于实数的讨论.md",
+    "Notes/Math Learning/分析学/陈纪修课程笔记.md",
+    "Notes/Math Learning/分析学/数列极限相关练习.md",
+    "Diary/2024-06-10.md",
+    "Diary/2024-05-27.md",
+    "Notes/Math Learning/分析学/attachments/Pasted image 20240624183436.png",
+    "Notes/Math Learning/分析学/Untitled.md",
+    "Notes/Math Learning/分析学/attachments/Pasted image 20240621154634.png",
+    "Notes/Math Learning/分析学/attachments",
+    "Notes/Math Learning/分析学/xin.md",
+    "Notes/Algorithm Learning Reports/CodeForces/CF1951 - Global Round 25.md",
+    "Notes/Math Learning/分析学",
+    "Notes/Math Learning",
+    "Notes/Skills from Scratch/Cpp Knowledge.md",
+    "Diary/attachments/7Y0GRC(Q9ZPDN)G%O(R3%IR.png",
+    "Diary/attachments/Pasted image 20240527224844.png",
+    "Diary/attachments/Pasted image 20240527224823.png",
+    "Diary/attachments/Pasted image 20240527224751.png",
+    "Diary/attachments/Pasted image 20240527224729.png",
+    "Diary/attachments/Pasted image 20240527224615.png",
+    "Diary/attachments",
+    "Diary/Pasted image 20240527223916.png",
+    "Diary/P8CJSRXC4}4MU[%CBECJNRQ.png",
+    "202405272238.md",
+    "Notes/Skills from Scratch/Obsidian 重新入门笔记.md",
+    "Diary",
+    "README.md"
+  ]
+}
