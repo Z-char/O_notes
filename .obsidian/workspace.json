@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24e902d1b40166d3",
+            "id": "41876eff05a1567d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math Learning/Analysis/Darboux Sum and Riemann Integrable.md",
+                "file": "Notes/Physics/Curve Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Darboux Sum and Riemann Integrable"
+              "title": "Curve Motion"
             }
           },
           {
-            "id": "b509f323dd603694",
+            "id": "97db67d29ffa4b70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math Learning/Analysis/Holder's Inequality.md",
+                "file": "Notes/Math Learning/Analysis/Radius of curvature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Holder's Inequality"
+              "title": "Radius of curvature"
             }
           }
         ],
@@ -103,12 +103,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7296847c1109e14",
+            "id": "4409998ecd206998",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "f351bf626200beef",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "d19b0a07a51d1986",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Algorithm Learning Reports/CodeForces/CF1951 - Global Round 25.md",
+                "file": "Diary/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +138,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CF1951 - Global Round 25"
+              "title": "Backlinks for 2024-05-27"
             }
           },
           {
-            "id": "80814bf50e2153b0",
+            "id": "a1be44b20fc56e6f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Algorithm Learning Reports/CodeForces/CF1951 - Global Round 25.md",
+                "file": "Diary/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CF1951 - Global Round 25"
+              "title": "Outgoing links from 2024-05-27"
             }
           },
           {
-            "id": "3fe3b551f9a96381",
+            "id": "393ccf56d2f24255",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,19 +169,7 @@
             }
           },
           {
-            "id": "6ef20c100a2d1230",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Notes/Algorithm Learning Reports/CodeForces/CF1951 - Global Round 25.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of CF1951 - Global Round 25"
-            }
-          },
-          {
-            "id": "899dd2117582eb32",
+            "id": "e2408263ae49e43e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -175,29 +183,18 @@
             }
           },
           {
-            "id": "4a18fe1ed876df76",
+            "id": "e5a4e1460b146d1a",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "outline",
               "state": {
-                "file": "Notes/Algorithm Learning Reports/CodeForces/CF1951 - Global Round 25.md"
+                "file": "Diary/2024-05-27.md"
               },
-              "icon": "lucide-info",
-              "title": "File properties for CF1951 - Global Round 25"
-            }
-          },
-          {
-            "id": "4409998ecd206998",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-list",
+              "title": "Outline of 2024-05-27"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,54 +216,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b509f323dd603694",
+  "active": "97db67d29ffa4b70",
   "lastOpenFiles": [
-    "Notes/Math Learning/Analysis/Jensen 不等式.md",
-    "Notes/Math Learning/Analysis/Holder's Inequality.md",
-    "Notes/Math Learning/Analysis/Uniform Continuity.md",
-    "Notes/Math Learning/Analysis/Darboux Sum and Riemann Integrable.md",
+    "Notes/Physics/Curve Motion.md",
+    "Notes/Math Learning/Analysis/Radius of curvature.md",
     "Notes/Math Learning/Analysis/Taylor Expansion.md",
+    "Diary/2024-06-10.md",
+    "Diary/2024-05-27.md",
+    "Notes/Math Learning/Algebra/Binet-Cauchy Theorem.md",
+    "Notes/Math Learning/Analysis/高阶微分不具有形式不变性.md",
+    "Notes/Math Learning/Analysis/Darboux Sum and Riemann Integrable.md",
+    "Notes/Math Learning/Algebra/Determinant Computing Rules.md",
+    "Notes/Math Learning/Analysis/Holder's Inequality.md",
+    "Notes/Math Learning/Measurement and Probability/集合系.md",
+    "Notes/Math Learning/Differentiate inside derterminant.md",
+    "Notes/Math Learning/Analysis/Orthogonal Functions.md",
+    "Excalidraw/Drawing 2024-11-09 20.00.06.excalidraw.md",
+    "Excalidraw",
+    "Notes/Math Learning/Analysis/一点关于实数的讨论.md",
+    "Notes/Math Learning/Analysis/Uniform Continuity.md",
+    "Notes/Math Learning/Analysis/Compound Limits.md",
+    "Notes/Physics/analog circuits/Drawing 2024-10-30 18.55.15.excalidraw.md",
+    "Notes/Math Learning/Analysis/attachments/Pasted image 20241107212948.png",
+    "Notes/Math Learning/Analysis/Jensen 不等式.md",
     "Notes/Physics/analog circuits/BJT 晶体管.md",
     "Notes/Physics/analog circuits/attachments/Pasted image 20241030191243.png",
-    "Notes/Physics/analog circuits/Drawing 2024-10-30 18.55.15.excalidraw.md",
-    "Notes/Math Learning/Analysis/高阶微分不具有形式不变性.md",
-    "Notes/Math Learning/Analysis/Compound Limits.md",
     "Notes/Math Learning/Analysis/数列极限相关练习.md",
-    "Notes/Math Learning/Analysis/一点关于实数的讨论.md",
     "Notes/Math Learning/Analysis/陈纪修课程笔记.md",
     "Notes/Skills from Scratch/Typst",
     "Untitled.canvas",
-    "Notes/Math Learning/Differentiate inside derterminant.md",
     "Notes/Physics/analog circuits/二极管.md",
     "Notes/Math Learning/Algebra/Eigenvalues.md",
     "Notes/Algorithm Learning Reports/CodeForces/CF1951 - Global Round 25.md",
     "Notes/Algorithm Learning Reports/CodeForces/CF1996 - Round 962 (Div.3).md",
-    "Notes/Math Learning/Measurement and Probability/集合系.md",
-    "Notes/Algorithm Learning Reports/Algorithm Introduction/String Algorithm.md",
-    "Notes/Math Learning/Measurement and Probability/Untitled.md",
     "Notes/Math Learning/Measurement and Probability",
     "Notes/Physics/analog circuits/attachments/Pasted image 20241016175411.png",
     "Notes/Physics/analog circuits/attachments",
     "Notes/Physics/analog circuits",
     "Notes/Physics",
-    "202410161355.md",
     "Notes/Math Learning/Calculus",
     "Notes/Math Learning/Algebra",
-    "Notes/Skills from Scratch/CPP Learning/Lvalues and Rvalues.md",
-    "Notes/Skills from Scratch/CPP Learning/Untitled.md",
-    "Notes/Skills from Scratch/CPP Learning/Basic Types.md",
-    "Diary/2024-06-10.md",
-    "Diary/2024-05-27.md",
     "Notes/Math Learning/Analysis/attachments/Pasted image 20240624183436.png",
     "Notes/Math Learning/Analysis/attachments/Pasted image 20240621154634.png",
     "Notes/Math Learning/Analysis/attachments",
     "Notes/Math Learning/Analysis",
-    "Notes/Math Learning",
     "Diary/attachments/7Y0GRC(Q9ZPDN)G%O(R3%IR.png",
     "Diary/attachments/Pasted image 20240527224844.png",
     "Diary/attachments/Pasted image 20240527224823.png",
     "Diary/attachments/Pasted image 20240527224751.png",
-    "Diary/attachments/Pasted image 20240527224729.png",
-    "Diary/attachments/Pasted image 20240527224615.png"
+    "Diary/attachments/Pasted image 20240527224729.png"
   ]
 }

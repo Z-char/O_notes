@@ -65,4 +65,6 @@ There are some other form of the remainder, but I found that these are hard for 
 > r_n (x) = \frac{f^{(n+1)}(\xi)} {(n+1)!}(x-x_0)^{n+1}, \xi \in [x, x_0]
 > $$
 
+It's the same thing if we choose different point different times.
+Should be $(x-x_{0})^{a_{i}}\times \cdots \times (x-x_{n})^{a_{n}}$.
 
