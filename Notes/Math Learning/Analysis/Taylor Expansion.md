@@ -33,7 +33,7 @@ $f^{'}$ is defined in a neighborhood of $x_0$, otherwise, if $\forall \delta \gt
 
 Now we are prepared to prove.
 Let $r_{n}(x) = f(x) - \sum\limits_{k=0}^n \frac{f^{(i)}(a)}{i!}(x-a)^i$. We want to prove $r_{n}(x) = o(x-a)^n$.
-First we know $r_{n}(a) = r_{n}^{(1)}(a) = \cdots = r_{n}^{(n)}(a) = 0$.
+First we know $r_{n}(a) = r_{n}^{(1)}(a) = \cdots = r_{n}^{(n)}(a) = 0$. ^55b36c
 And we are going to apply LHospital rule:
 $$
 \begin{align}
@@ -49,10 +49,7 @@ $$
 $$
 The reason we can use L's rule is because we have proved that they are both differentiable in a neighborhood and they are both approaching zero (limit should be the value when continuous). The last step is just expand $r$.
 **End of proof.**
-
-There are some other form of the remainder, but I found that these are hard for me.
-[The Material about Remainders](https://zhuanlan.zhihu.com/p/550513650).
-
+# Lagrange Error
 2024-10-30 upd:
 
 > [!Lagrange Error]
@@ -68,3 +65,45 @@ There are some other form of the remainder, but I found that these are hard for 
 It's the same thing if we choose different point different times.
 Should be $(x-x_{0})^{a_{i}}\times \cdots \times (x-x_{n})^{a_{n}}$.
 
+I would not give a proof as I don't fully understand the proof (which constructs a function).
+
+# Integral Error
+So, Peano error says "well that's something going to be very very small."
+Lagrange error in turn gives the conclusion "yeah it connects to some $\xi$."
+In this case, we will certainly ask, so who the error is?
+
+Let $f: \mathbb R \to \mathbb R$ be a function that has $n+1$ continuous derivatives in some neighborhood $U$ of $x=a$. 
+Let's say 
+$$
+f(x)=\sum_{i=1}^{n} \frac{f^{(i)}(a)}{i!}(x-x_0)^{i} + \int_{a}^{x} f^{(n+1)}(t)\dfrac{(x-t)^{n}}{n!} {\rm d}t
+$$
+That's real for $n = 1$, as that's the definition of integral.
+Let's say if $n = k-1$ is true, for $n = k$.
+
+$$
+f(x) = \sum\limits_{i=1}^{k-1} \dfrac{f^{(i)}(a)}{i!}(x-a)^{i} + \int_{a}^{x} f^{(k)}(t)\dfrac{(x-t)^{k-1}}{(k-1)!} {\rm d} t
+$$
+Doing the integral by IBP.
+$$
+\begin{align}
+u = f^{(k)}(t), {\rm d}v=\dfrac{(x-t)^{k-1}}{(k-1)!} {\rm d}t \\
+{\rm d}u = f^{(k+1)}(t) {\rm d}t, v = -\dfrac{(x-t)^{k}}{k!} \tag{1}\label{ref_1}
+\end{align} 
+$$
+Then we get:
+$$
+\begin{align}
+uv = -f^{(k)}(x)\dfrac{(x-x)^{k}}{k!} + f^{(k)}(a)\dfrac{(x-a)^k}{k!}
+\end{align}
+$$
+The first term is zero.
+So:
+$$
+\begin{align}
+f(x) &= \sum\limits_{i=1}^{k} \dfrac{f^{(i)}(a)}{i!} (x-a)^{i} - \int_{a}^{x} v{\rm d}u \eqref{ref1}\\
+&= \sum\limits_{i=1}^{k}\dfrac{f^{(i)}(a)}{i!} (x-a)^{i} + \int_{a}^{x} f^{(k+1)}(t) \dfrac{(x-t)^{k}}{k!}{\rm d}t
+\end{align}
+$$
+
+Therefore we prove the integral remainder.
+This can also prove Lagrange remainder using integral MVT.

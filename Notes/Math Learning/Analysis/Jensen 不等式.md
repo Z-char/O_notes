@@ -9,7 +9,7 @@ $$
 \begin{align}
 f(\sum_{i=1}^n \lambda_i x_i) &= f((1-\lambda_n)\sum_{i=1}^{n-1}\frac{\lambda_i}{1-\lambda_n}x_i + \lambda_n x_n)\\
 & \le (1-\lambda_n)f(\sum_{i=1}^{n-1}\frac{\lambda_i}{1-\lambda_n}(x_i) + \lambda_n f(x_n)\\
-& \le (1-\lambda_n)\sum_{i=1}^{n-1}\frac{lambda_i}{1-lambda_n}f(x_i) + \lambda_n f(x_n)\\
+& \le (1-\lambda_n)\sum_{i=1}^{n-1}\frac{\lambda_i}{1-\lambda_n}f(x_i) + \lambda_n f(x_n)\\
 & = \sum_{i=1}^n \lambda_i f(x_i)
 \end{align}
 $$

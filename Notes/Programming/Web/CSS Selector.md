@@ -1,0 +1,3 @@
+In web, we get a DOM element by using `querySelector`. And, this is a `CSS Selector`. 
+Thus, if we want to put in a string, it must satisfy `CSS standard`.
+If we put {CSS} `document.querySelector('#${id}')` when `id` is a variable, this will cause an error sometimes. That's because I input a string like "#id" while `CSS` don't know how to parse if there is like characters needed escape. It's better to do `CSS.escape(${id})` first. Or there is a simpler way to do this. We can simply put `document.querySelector('[id="${id}"]')` and this works. This also works for when I put a string.
