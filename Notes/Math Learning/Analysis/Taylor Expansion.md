@@ -34,7 +34,7 @@ $f^{'}$ is defined in a neighborhood of $x_0$, otherwise, if $\forall \delta \gt
 Now we are prepared to prove.
 Let $r_{n}(x) = f(x) - \sum\limits_{k=0}^n \frac{f^{(i)}(a)}{i!}(x-a)^i$. We want to prove $r_{n}(x) = o(x-a)^n$.
 First we know $r_{n}(a) = r_{n}^{(1)}(a) = \cdots = r_{n}^{(n)}(a) = 0$. ^55b36c
-And we are going to apply LHospital rule:
+And we are going to apply L'Hospital rule:
 $$
 \begin{align}
 \lim_{x \to a} \frac{r_n(x)}{(x-a)^n} &= \lim_{x\to a} \frac{r_n^{(1)}(x)}{n(x-a)^{n-1}} \\
@@ -87,7 +87,7 @@ Doing the integral by IBP.
 $$
 \begin{align}
 u = f^{(k)}(t), {\rm d}v=\dfrac{(x-t)^{k-1}}{(k-1)!} {\rm d}t \\
-{\rm d}u = f^{(k+1)}(t) {\rm d}t, v = -\dfrac{(x-t)^{k}}{k!} \tag{1}\label{ref_1}
+{\rm d}u = f^{(k+1)}(t) {\rm d}t, v = -\dfrac{(x-t)^{k}}{k!} 
 \end{align} 
 $$
 Then we get:
@@ -100,8 +100,9 @@ The first term is zero.
 So:
 $$
 \begin{align}
-f(x) &= \sum\limits_{i=1}^{k} \dfrac{f^{(i)}(a)}{i!} (x-a)^{i} - \int_{a}^{x} v{\rm d}u \eqref{ref1}\\
+f(x) &= \sum\limits_{i=1}^{k} \dfrac{f^{(i)}(a)}{i!} (x-a)^{i} - \int_{a}^{x} v{\rm d}u \\
 &= \sum\limits_{i=1}^{k}\dfrac{f^{(i)}(a)}{i!} (x-a)^{i} + \int_{a}^{x} f^{(k+1)}(t) \dfrac{(x-t)^{k}}{k!}{\rm d}t
+
 \end{align}
 $$
 

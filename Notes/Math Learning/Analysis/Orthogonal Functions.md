@@ -26,4 +26,4 @@ And when $n = m$ the integration is $\frac{2}{2n+1}$.
 
 ## sin and cos
 $\{1, \sin x, \cos x, \sin 2x, \cos 2x, \cdots, \sin nx, \cos nx, \cdots\}$ are an orthogonal sequence of functions on $[-\pi, \pi]$.
-In fact, they can be on any interval with length $2\pi$.
+In fact, they can be on any interval with length $2\pi$. ^d9ae17

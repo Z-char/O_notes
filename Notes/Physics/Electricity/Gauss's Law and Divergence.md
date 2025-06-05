@@ -76,3 +76,4 @@ $$
 \int_{\Sigma} \vec{E} \cdot \mathrm{d} \vec{S} = \dfrac{q}{\epsilon_{0}}
 $$
 Hence, Gauss's law is proven.
+But be careful, this formula is proven using integral of point charges, and since we already proven point charge satisfy that $\mathrm{div} \vec{E} = \dfrac{\rho}{\epsilon_{0}}$. Thus, we don't need the $\vec{E}$ to satisfy $C^1$ anymore.

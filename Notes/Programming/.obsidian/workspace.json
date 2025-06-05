@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSS Selector.md",
+                "file": "Makefiles/Basic Makefile rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS Selector"
+              "title": "Basic Makefile rule"
+            }
+          },
+          {
+            "id": "2be8d81f2c44fd62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,11 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fac050395358edf3",
+  "active": "2be8d81f2c44fd62",
   "lastOpenFiles": [
     "Makefiles/Basic Makefile rule.md",
+    "Linux/Security.md",
+    "Linux",
     "Web/CSS Selector.md",
-    "Untitled",
     "Web",
     "Makefiles"
   ]

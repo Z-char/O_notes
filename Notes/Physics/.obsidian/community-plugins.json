@@ -1,5 +1,7 @@
 [
   "obsidian-vimrc-support",
   "obsidian-latex-suite",
-  "dataview"
+  "dataview",
+  "media-extended",
+  "obsidian-annotator"
 ]

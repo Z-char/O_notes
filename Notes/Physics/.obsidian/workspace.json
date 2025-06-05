@@ -8,35 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6dd3f3802f307dce",
+            "id": "254497f8fe3ab605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electricity/Gauss's Law and Divergence.md",
+                "file": "Electricity/Notes of Introduction of Electricdynamics/场论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gauss's Law and Divergence"
+              "title": "场论"
             }
           },
           {
-            "id": "1057801e7461ad72",
+            "id": "6df3e448c08d760e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electricity/Gauss's Law and Divergence.md",
+                "file": "Electricity/Notes of Introduction of Electricdynamics/Laplace's Equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gauss's Law and Divergence"
+              "title": "Laplace's Equation"
+            }
+          },
+          {
+            "id": "9ace4ddb28040a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electricity/Notes of Introduction of Electricdynamics/Second Derivative.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Second Derivative"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +186,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "1057801e7461ad72",
+  "active": "254497f8fe3ab605",
   "lastOpenFiles": [
-    "Electricity/Untitled.md",
+    "Pasted image 20250422164545.png",
+    "Electricity/Notes of Introduction of Electricdynamics/Laplace's Equation.md",
+    "Electricity/Notes of Introduction of Electricdynamics/Second Derivative.md",
+    "Electricity/Notes of Introduction of Electricdynamics/场论.md",
+    "Electricity/Notes of Introduction of Electricdynamics/神秘狄拉克需要加强.md",
+    "Electricity/Stokes's formula and Curl.md",
     "Electricity/Gauss's Law and Divergence.md",
+    "Pasted image 20250416193338.png",
+    "Electricity/Notes of Introduction of Electricdynamics",
+    "Pasted image 20250321010841.png",
+    "Pasted image 20250321010832.png",
+    "Pasted image 20250321010754.png",
     "Pasted image 20250319193053.png",
     "obsidian.vimrc.md",
     "Curve Motion.md",
